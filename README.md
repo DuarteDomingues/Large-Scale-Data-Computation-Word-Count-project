@@ -6,6 +6,8 @@ Mestrado Engenharia Informática e Multimédia - ISEL
 
 ---
 
+### Technologies used: Java, Apache Hadoop, HDFS
+
 This work uses the MapReduce programming model to solve large-scale computational problems (Big Data). 
 
 This work presents a word count project using Apache Hadoop for analyzing a set of documents by counting the frequency of n-grams. 
